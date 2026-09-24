@@ -1,0 +1,51 @@
+// Tornova locale: ar  -  PREPARED, NOT YET REVIEWED.
+//
+// VG decision C9: this locale is enabled for customers only after its content has
+// been reviewed and approved (Site:EnabledLocales on the server). Until then it
+// can be previewed in development only. The key is the English source text; any
+// text missing here falls back to English automatically, so a partial file can
+// never show a blank or a raw key. Prices remain USD in every language.
+export const ar: Record<string, string> = {
+  "Download": "تنزيل",
+  "Features": "الميزات",
+  "Personal": "للأفراد",
+  "Organization": "للمؤسسات",
+  "Trials": "التجارب",
+  "Pricing": "الأسعار",
+  "FAQ": "الأسئلة الشائعة",
+  "Security": "الأمان",
+  "Pioneer": "برنامج الرواد",
+  "Support": "الدعم",
+  "Sign Up": "إنشاء حساب",
+  "Sign In": "تسجيل الدخول",
+  "Sign Out": "تسجيل الخروج",
+  "Language": "اللغة",
+  "Get Started": "ابدأ الآن",
+  "Start Trial": "ابدأ التجربة",
+  "View Pricing": "عرض الأسعار",
+  "Contact Us": "اتصل بنا",
+  "Feedback": "ملاحظات",
+  "Product": "المنتج",
+  "Solutions": "الحلول",
+  "Trust & Programs": "الثقة والبرامج",
+  "Help": "المساعدة",
+  "Account": "الحساب",
+  "Pioneer Program": "برنامج الرواد",
+  "Powerful Backup. Peace of Mind.": "نسخ احتياطي قوي. راحة بال.",
+  "All rights reserved.": "جميع الحقوق محفوظة.",
+  "One Backup.": "نسخة احتياطية واحدة.",
+  "Complete Confidence.": "ثقة كاملة.",
+  "Hosted in the US. Accessible Worldwide.": "مستضاف في الولايات المتحدة. متاح في جميع أنحاء العالم.",
+  "Monthly": "شهريًا",
+  "3 Months": "3 أشهر",
+  "6 Months": "6 أشهر",
+  "1 Year": "سنة واحدة",
+  "Backup Storage": "مساحة النسخ الاحتياطي",
+  "Dashboard": "لوحة التحكم",
+  "Menu": "القائمة",
+  "Close": "إغلاق",
+  "Search Tornova FAQs…": "ابحث في الأسئلة الشائعة…",
+  "Download for Windows": "تنزيل لنظام Windows",
+  "Send Feedback": "إرسال ملاحظات",
+  "Learn more": "اعرف المزيد",
+};

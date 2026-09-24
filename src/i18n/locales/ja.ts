@@ -1,0 +1,51 @@
+// Tornova locale: ja  -  PREPARED, NOT YET REVIEWED.
+//
+// VG decision C9: this locale is enabled for customers only after its content has
+// been reviewed and approved (Site:EnabledLocales on the server). Until then it
+// can be previewed in development only. The key is the English source text; any
+// text missing here falls back to English automatically, so a partial file can
+// never show a blank or a raw key. Prices remain USD in every language.
+export const ja: Record<string, string> = {
+  "Download": "ダウンロード",
+  "Features": "機能",
+  "Personal": "個人向け",
+  "Organization": "組織向け",
+  "Trials": "トライアル",
+  "Pricing": "料金",
+  "FAQ": "よくある質問",
+  "Security": "セキュリティ",
+  "Pioneer": "パイオニア",
+  "Support": "サポート",
+  "Sign Up": "新規登録",
+  "Sign In": "サインイン",
+  "Sign Out": "サインアウト",
+  "Language": "言語",
+  "Get Started": "始める",
+  "Start Trial": "トライアルを開始",
+  "View Pricing": "料金を見る",
+  "Contact Us": "お問い合わせ",
+  "Feedback": "フィードバック",
+  "Product": "製品",
+  "Solutions": "ソリューション",
+  "Trust & Programs": "信頼とプログラム",
+  "Help": "ヘルプ",
+  "Account": "アカウント",
+  "Pioneer Program": "パイオニアプログラム",
+  "Powerful Backup. Peace of Mind.": "強力なバックアップ。安心を。",
+  "All rights reserved.": "All rights reserved.",
+  "One Backup.": "ひとつのバックアップ。",
+  "Complete Confidence.": "確かな安心。",
+  "Hosted in the US. Accessible Worldwide.": "米国でホスト。世界中からアクセス可能。",
+  "Monthly": "月額",
+  "3 Months": "3か月",
+  "6 Months": "6か月",
+  "1 Year": "1年",
+  "Backup Storage": "バックアップ容量",
+  "Dashboard": "ダッシュボード",
+  "Menu": "メニュー",
+  "Close": "閉じる",
+  "Search Tornova FAQs…": "よくある質問を検索…",
+  "Download for Windows": "Windows 用をダウンロード",
+  "Send Feedback": "フィードバックを送信",
+  "Learn more": "詳しく見る",
+};

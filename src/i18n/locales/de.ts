@@ -1,0 +1,51 @@
+// Tornova locale: de  -  PREPARED, NOT YET REVIEWED.
+//
+// VG decision C9: this locale is enabled for customers only after its content has
+// been reviewed and approved (Site:EnabledLocales on the server). Until then it
+// can be previewed in development only. The key is the English source text; any
+// text missing here falls back to English automatically, so a partial file can
+// never show a blank or a raw key. Prices remain USD in every language.
+export const de: Record<string, string> = {
+  "Download": "Download",
+  "Features": "Funktionen",
+  "Personal": "Privat",
+  "Organization": "Organisation",
+  "Trials": "Testversionen",
+  "Pricing": "Preise",
+  "FAQ": "FAQ",
+  "Security": "Sicherheit",
+  "Pioneer": "Pioneer",
+  "Support": "Support",
+  "Sign Up": "Registrieren",
+  "Sign In": "Anmelden",
+  "Sign Out": "Abmelden",
+  "Language": "Sprache",
+  "Get Started": "Jetzt starten",
+  "Start Trial": "Test starten",
+  "View Pricing": "Preise ansehen",
+  "Contact Us": "Kontakt",
+  "Feedback": "Feedback",
+  "Product": "Produkt",
+  "Solutions": "Lösungen",
+  "Trust & Programs": "Vertrauen & Programme",
+  "Help": "Hilfe",
+  "Account": "Konto",
+  "Pioneer Program": "Pioneer-Programm",
+  "Powerful Backup. Peace of Mind.": "Leistungsstarkes Backup. Sorgenfreiheit.",
+  "All rights reserved.": "Alle Rechte vorbehalten.",
+  "One Backup.": "Ein Backup.",
+  "Complete Confidence.": "Volles Vertrauen.",
+  "Hosted in the US. Accessible Worldwide.": "In den USA gehostet. Weltweit erreichbar.",
+  "Monthly": "Monatlich",
+  "3 Months": "3 Monate",
+  "6 Months": "6 Monate",
+  "1 Year": "1 Jahr",
+  "Backup Storage": "Backup-Speicher",
+  "Dashboard": "Dashboard",
+  "Menu": "Menü",
+  "Close": "Schließen",
+  "Search Tornova FAQs…": "FAQ durchsuchen…",
+  "Download for Windows": "Download für Windows",
+  "Send Feedback": "Feedback senden",
+  "Learn more": "Mehr erfahren",
+};

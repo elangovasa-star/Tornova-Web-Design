@@ -1,0 +1,51 @@
+// Tornova locale: es  -  PREPARED, NOT YET REVIEWED.
+//
+// VG decision C9: this locale is enabled for customers only after its content has
+// been reviewed and approved (Site:EnabledLocales on the server). Until then it
+// can be previewed in development only. The key is the English source text; any
+// text missing here falls back to English automatically, so a partial file can
+// never show a blank or a raw key. Prices remain USD in every language.
+export const es: Record<string, string> = {
+  "Download": "Descargar",
+  "Features": "Funciones",
+  "Personal": "Personal",
+  "Organization": "Organización",
+  "Trials": "Pruebas",
+  "Pricing": "Precios",
+  "FAQ": "Preguntas frecuentes",
+  "Security": "Seguridad",
+  "Pioneer": "Pioneer",
+  "Support": "Soporte",
+  "Sign Up": "Registrarse",
+  "Sign In": "Iniciar sesión",
+  "Sign Out": "Cerrar sesión",
+  "Language": "Idioma",
+  "Get Started": "Comenzar",
+  "Start Trial": "Iniciar prueba",
+  "View Pricing": "Ver precios",
+  "Contact Us": "Contáctenos",
+  "Feedback": "Comentarios",
+  "Product": "Producto",
+  "Solutions": "Soluciones",
+  "Trust & Programs": "Confianza y programas",
+  "Help": "Ayuda",
+  "Account": "Cuenta",
+  "Pioneer Program": "Programa Pioneer",
+  "Powerful Backup. Peace of Mind.": "Copia de seguridad potente. Tranquilidad.",
+  "All rights reserved.": "Todos los derechos reservados.",
+  "One Backup.": "Una copia de seguridad.",
+  "Complete Confidence.": "Confianza total.",
+  "Hosted in the US. Accessible Worldwide.": "Alojado en EE. UU. Accesible en todo el mundo.",
+  "Monthly": "Mensual",
+  "3 Months": "3 meses",
+  "6 Months": "6 meses",
+  "1 Year": "1 año",
+  "Backup Storage": "Almacenamiento de copia de seguridad",
+  "Dashboard": "Panel",
+  "Menu": "Menú",
+  "Close": "Cerrar",
+  "Search Tornova FAQs…": "Buscar en las preguntas frecuentes…",
+  "Download for Windows": "Descargar para Windows",
+  "Send Feedback": "Enviar comentarios",
+  "Learn more": "Más información",
+};
